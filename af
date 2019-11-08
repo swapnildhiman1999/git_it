@@ -1,0 +1,30 @@
+[33mcommit a210f484e643c6e0798969d69036a9e4d81daf7f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ddedad7 ab86bb6
+Author: swapnildhiman1999 <swapnildhiman.mat17@itbhu.ac.in>
+Date:   Tue Nov 5 17:36:53 2019 +0530
+
+    Merge branch 'music_player'
+
+[33mcommit ab86bb69420bae1f81d3889b332a080e0d5c06eb[m
+Author: swapnildhiman1999 <swapnildhiman.mat17@itbhu.ac.in>
+Date:   Tue Nov 5 17:25:43 2019 +0530
+
+    create music player
+
+[33mcommit ddedad77c348c5de213199624dcc6ed124b7abd4[m
+Author: swapnildhiman1999 <swapnildhiman.mat17@itbhu.ac.in>
+Date:   Tue Nov 5 17:21:23 2019 +0530
+
+    add internet
+
+[33mcommit b465187f7795bbbf72749f6cdc12e83ede65b585[m
+Author: swapnildhiman1999 <swapnildhiman.mat17@itbhu.ac.in>
+Date:   Tue Nov 5 12:53:43 2019 +0530
+
+    add touchscreen,scratchless,samsung
+
+[33mcommit ab176dfac58f913fab823190b203d7d8c6aaec4e[m
+Author: swapnildhiman1999 <swapnildhiman.mat17@itbhu.ac.in>
+Date:   Tue Nov 5 12:46:37 2019 +0530
+
+    phone created
